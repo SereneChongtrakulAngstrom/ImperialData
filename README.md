@@ -7,7 +7,7 @@ Contents:
 - Participants.csv (required for Simulation task)
 - Players.csv (required for Data Collection task)
 
-3 Point Contest Rules:
+Rules:
 - 70 seconds to complete the following:
 - Shoot 25 balls from 5 different positions on the 3 point line
 - On 4 of the racks, 4 of the balls are worth 1 point and 1 of the balls is a ‘money ball’ which is worth 2 points
